@@ -1,0 +1,36 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "id": 1,
+            "name": "Black Machine",
+            "type": "blackMachine"
+        },
+        {
+            "id": 2,
+            "name": "Blue Machine",
+            "type": "blueMachine"
+        },
+        {
+            "id": 3,
+            "name": "Brown Machine",
+            "type": "brownMachine"
+        },
+        {
+            "id": 4,
+            "name": "Green Machine",
+            "type": "greenMachine"
+        },
+        {
+            "id": 5,
+            "name": "Red Machine",
+            "type": "redMachine"
+
+        },
+        {
+            "id": 6,
+            "name": "Small Machine",
+            "type": "smallMachine"
+        }
+    ]
+}
